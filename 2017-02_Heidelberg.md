@@ -208,3 +208,4 @@ Thursday afternoon is a celebration for Heinz Völk.
 * Sabrina Casanova
 * Stefan Eschbach (University of Erlangen)
 * Vincent Marandon
+* [Nachiketa Chakraborty](https://github.com/cnachi)
